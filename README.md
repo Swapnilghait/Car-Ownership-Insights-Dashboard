@@ -1,6 +1,6 @@
 # Car Ownership Insights Dashboard
 
-![Car Ownership Insights Dashboard](https://drive.google.com/file/d/1DlGvM-C14qIBofA4hG4Dqg_Kif9uWYHK/view?usp=sharing)
+![Car Ownership Insights Dashboard](pdf_page-0001.jpg)
 
 ## Project Overview
 
